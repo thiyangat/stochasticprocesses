@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STA 331 2.0 Stochastic Processes</title>
+    <link>https://stochasticprocesses.netlify.app/</link>
+    <description>Recent content on STA 331 2.0 Stochastic Processes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2023 13:09:13 -0600</lastBuildDate><atom:link href="https://stochasticprocesses.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023, October - 2024, February</title>
+      <link>https://stochasticprocesses.netlify.app/2023/10/31/2023-october-2024-february/</link>
+      <pubDate>Tue, 31 Oct 2023 13:09:13 -0600</pubDate>
+      
+      <guid>https://stochasticprocesses.netlify.app/2023/10/31/2023-october-2024-february/</guid>
+      <description>2023: October Course outline
+31 Oct 2023 Lecture 1-Slides
+7 Nov 2023 Lecture 2-Slides
+14 Nov 2023 Lecture 3-Slides
+21 Nov 2023/ 28 Nov 2023 Lecture 4/5-Slides
+5 Dec 2023 Lecture 6-Slides
+12 Dec 2023 Lecture 7-Slides
+21 Dec 2023 Mid Semester Examination and Lecture 8
+4 January 2024 Lecture 9
+9 January 2024 Lecture 10
+16 January 2024 Lecture 11
+23/30 January 2024 Lecture 12/13
+Birth and Death Process Note 1</description>
+    </item>
+    
+    <item>
+      <title>Past papers</title>
+      <link>https://stochasticprocesses.netlify.app/2023/01/01/past-papers/</link>
+      <pubDate>Sun, 01 Jan 2023 21:49:57 -0700</pubDate>
+      
+      <guid>https://stochasticprocesses.netlify.app/2023/01/01/past-papers/</guid>
+      <description>2020/2021
+2021/2022</description>
+    </item>
+    
+    <item>
+      <title>Random Walk and Gambler&#39;s ruin problem</title>
+      <link>https://stochasticprocesses.netlify.app/2023/01/01/random-walk-and-gamblers-ruin-problem/</link>
+      <pubDate>Sun, 01 Jan 2023 21:49:57 -0700</pubDate>
+      
+      <guid>https://stochasticprocesses.netlify.app/2023/01/01/random-walk-and-gamblers-ruin-problem/</guid>
+      <description>Slides: slides</description>
+    </item>
+    
+    <item>
+      <title>L14-15: Birth and Death Process (cont)</title>
+      <link>https://stochasticprocesses.netlify.app/2022/12/01/l14-15-birth-and-death-process-cont/</link>
+      <pubDate>Thu, 01 Dec 2022 21:49:57 -0700</pubDate>
+      
+      <guid>https://stochasticprocesses.netlify.app/2022/12/01/l14-15-birth-and-death-process-cont/</guid>
+      <description>Birth-and-Death Processs Slides: Lesson 14 - i
+Birth-and-Death Processs: important results Slides: Lesson 14 - ii
+Slides: Lesson 14 - iii
+Birth-and-Death Process - important results (cont) Slides: Lesson 15 - i
+Slides: Lesson 15 - ii</description>
+    </item>
+    
+    <item>
+      <title>L12-13: Birth and Death Process</title>
+      <link>https://stochasticprocesses.netlify.app/2022/11/30/l12-13-birth-and-death-process/</link>
+      <pubDate>Wed, 30 Nov 2022 21:49:57 -0700</pubDate>
+      
+      <guid>https://stochasticprocesses.netlify.app/2022/11/30/l12-13-birth-and-death-process/</guid>
+      <description>Slides: Lesson 12 - i
+Slides: Lesson 12 - ii
+Slides: Lesson 12 - iii
+Answers: Click here</description>
+    </item>
+    
+    <item>
+      <title>L11: Poisson Process</title>
+      <link>https://stochasticprocesses.netlify.app/2022/11/29/l11-poisson-process/</link>
+      <pubDate>Tue, 29 Nov 2022 21:49:57 -0700</pubDate>
+      
+      <guid>https://stochasticprocesses.netlify.app/2022/11/29/l11-poisson-process/</guid>
+      <description>Slides: Lesson 11</description>
+    </item>
+    
+    <item>
+      <title>L6: Limiting Probabilities</title>
+      <link>https://stochasticprocesses.netlify.app/2022/11/26/l6-limiting-probabilities/</link>
+      <pubDate>Sat, 26 Nov 2022 21:49:57 -0700</pubDate>
+      
+      <guid>https://stochasticprocesses.netlify.app/2022/11/26/l6-limiting-probabilities/</guid>
+      <description>Slides: Lesson 6</description>
+    </item>
+    
+    <item>
+      <title>L8-10: Continuous Parameter Markov Chains</title>
+      <link>https://stochasticprocesses.netlify.app/2022/11/20/l8-10-continuous-parameter-markov-chains/</link>
+      <pubDate>Sun, 20 Nov 2022 21:49:57 -0700</pubDate>
+      
+      <guid>https://stochasticprocesses.netlify.app/2022/11/20/l8-10-continuous-parameter-markov-chains/</guid>
+      <description>Slides: Lesson 8
+Slides: Lesson 9-10</description>
+    </item>
+    
+    <item>
+      <title>L4-5: Classification of States</title>
+      <link>https://stochasticprocesses.netlify.app/2022/11/14/l4-5-classification-of-states/</link>
+      <pubDate>Mon, 14 Nov 2022 21:49:57 -0700</pubDate>
+      
+      <guid>https://stochasticprocesses.netlify.app/2022/11/14/l4-5-classification-of-states/</guid>
+      <description>Slides: Lesson 4-5</description>
+    </item>
+    
+    <item>
+      <title>L7: Ion Switching</title>
+      <link>https://stochasticprocesses.netlify.app/2022/11/14/l7-ion-switching/</link>
+      <pubDate>Mon, 14 Nov 2022 21:49:57 -0700</pubDate>
+      
+      <guid>https://stochasticprocesses.netlify.app/2022/11/14/l7-ion-switching/</guid>
+      <description>Ion Switching Identify the number of channels open at each time point
+Useful materials https://towardsdatascience.com/identifying-the-number-of-open-ion-channels-with-hidden-markov-models-334fab86fc85
+https://www.kaggle.com/janithwanni/as2017567-task</description>
+    </item>
+    
+    <item>
+      <title>L3-4: Markov Chains</title>
+      <link>https://stochasticprocesses.netlify.app/2022/11/01/l3-4-markov-chains/</link>
+      <pubDate>Tue, 01 Nov 2022 21:49:57 -0700</pubDate>
+      
+      <guid>https://stochasticprocesses.netlify.app/2022/11/01/l3-4-markov-chains/</guid>
+      <description>Slides: Lesson 2</description>
+    </item>
+    
+    <item>
+      <title>L1-2: Introduction to Stochastic Processes</title>
+      <link>https://stochasticprocesses.netlify.app/2022/10/26/l1-2-introduction-to-stochastic-processes/</link>
+      <pubDate>Wed, 26 Oct 2022 21:49:57 -0700</pubDate>
+      
+      <guid>https://stochasticprocesses.netlify.app/2022/10/26/l1-2-introduction-to-stochastic-processes/</guid>
+      <description>Slides: Lesson 1</description>
+    </item>
+    
+    <item>
+      <title>Course outline</title>
+      <link>https://stochasticprocesses.netlify.app/2022/10/24/course-outline/</link>
+      <pubDate>Mon, 24 Oct 2022 13:09:13 -0600</pubDate>
+      
+      <guid>https://stochasticprocesses.netlify.app/2022/10/24/course-outline/</guid>
+      <description>Click here</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://stochasticprocesses.netlify.app/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>https://stochasticprocesses.netlify.app/about/</guid>
+      <description>The word stochastic is jargon for random. Many systems evolve over time with an inherent amount of randomness. A stochastic process is a system which evolves in time or space while undergoing chance fluctuations. We can describe such a system by defining a family of random variables. The objective of this course unit is to introduce the theory of stochastic processes, in particular Markov processes. The theory is illustrated with examples from operations research, biology, finance and economy.</description>
+    </item>
+    
+  </channel>
+</rss>
